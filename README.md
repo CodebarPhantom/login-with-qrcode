@@ -2,12 +2,12 @@
 Aplikasi ini dibuat dengan menggunakan php7.2 dan dengan beberapa library.
 
 ## demo
-admin
-username : azrial
+admin<br>
+username : azrial<br>
 password : azrial
 
-user
-username : dania
+user<br>
+username : dania<br>
 password : dania
 
 FOTO QRCODE ADA DI FOLDER QRCODE
