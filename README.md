@@ -13,5 +13,5 @@ password : dania
 FOTO QRCODE ADA DI FOLDER QRCODE
 
 ## LOVE YOU
-https://github.com/andrastoth/webcodecamjs
+https://github.com/andrastoth/webcodecamjs <br>
 https://developers.google.com/chart/infographics/docs/qr_codes
