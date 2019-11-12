@@ -1,4 +1,4 @@
-# LOGIN With QR Code
+# KETERANGAN
 Aplikasi ini dibuat dengan menggunakan php7.2 dan dengan beberapa library.
 
 ## demo
